@@ -64,7 +64,7 @@ class Scp(Ssh):
 
 
 if __name__ == '__main__':
-    user = "nvidia"
+    user = "aguda"
     if len(sys.argv) < 3:
         print("Please pass arguments to scirpt as 'python ssh.py hostip command filename'")
         sys.exit()
