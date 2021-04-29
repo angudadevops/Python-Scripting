@@ -1,5 +1,4 @@
-# Python-Scripting [![HitCount](http://hits.dwyl.com/angudadevops/Python-Scripting.svg)](http://hits.dwyl.com/angudadevops/Python-Scripting)
-
+# Python-Scripting 
 
 This respository helps you to understand basic python scripting for automation. 
 
